@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">DevOps</h3>
+<h3 align="left">Python Libraries</h3>
 
 ###
 
@@ -45,24 +45,8 @@
 
 ###
 
-<h3 align="left">Frontend</h3>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">Backend</h3>
+<h3 align="left">Softwares</h3>
 
 ###
 
