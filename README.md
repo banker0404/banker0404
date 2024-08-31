@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I am Pranav Banker a budding Data Scientist/ML Engineer.</p>
+<p align="left">Passionate about learning deep learning and more.</p>
 
 ###
 
@@ -13,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
